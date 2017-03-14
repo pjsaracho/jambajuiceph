@@ -1,0 +1,50 @@
+.navbar {
+	margin: 10px auto;
+}
+
+.navbar-brand {
+	padding: 0;
+}
+
+.navbar ul {
+	margin: 5px 0 0 0;
+}
+
+#banner {
+    width: 100%;
+    position: relative;
+    float: left;
+    margin: 5px auto;
+    background: #dfebc5;
+}
+
+img {
+	margin: auto;
+}
+
+#content_area
+{
+    float: left;
+    width: 75%;
+    margin: 20px 0 20px 0;
+    padding: 10px;
+}
+
+#sidebar
+{
+    float: right;
+    width: 25%;
+    height: 400px;
+    margin: 20px 0 20px 0;
+    padding: 10px;
+    border: 2px solid #E3E3E3;
+}
+
+footer {
+	width: 100%;
+	margin-top: 10px;
+    padding: 20px 0;
+    background: #bfd700;
+    position: relative;
+    text-align: center;
+}

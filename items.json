@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1",
+        "name": "Mango-A-Go-Go\u00ae Smoothie",
+        "subname": "These mangoes will get you movin\u2019!",
+        "description": "Are you the president of the Mango Appreciation Society? Do you count mangoes to fall asleep? Then welcome to paradise. We blend heaps of mangoes and passion fruit-mango juice topped off with pineapple sherbet to make your dreams come true.",
+        "price": "150",
+        "image": "Images\/maggs.png",
+        "category": "Classic Smoothies"
+    },
+    {
+        "id": "2",
+        "name": "Razzmatazz\u00ae Smoothie",
+        "subname": "Dazzling you with the power of berries.",
+        "description": "Your mouth won\u2019t know which way to say \u201cyummers!\u201d with this super blend. Strawberries, bananas and mixed berry juice all jump in this sea of goodness to create the magnum opus of berrydom.",
+        "price": "150",
+        "image": "Images\/rs.png",
+        "category": "Classic Smoothies"
+    },
+    {
+        "id": "3",
+        "name": "Strawberry Surf Rider\u2122 Smoothie",
+        "subname": "Hang ten and all that.",
+        "description": "Let\u2019s be honest: Strawberries can\u2019t surf. That\u2019s what the peaches are for. Enjoy some peaches teaching strawberries how to surf on an ocean of lemonade next to beaches made of lime sherbet. It\u2019s radical.",
+        "price": "150",
+        "image": "Images\/ssrs.png",
+        "category": "Classic Smoothies"
+    },
+    {
+        "id": "4",
+        "name": "Aloha Pineapple\u00ae Smoothie",
+        "subname": "It\u2019s a luau for your mouth!",
+        "description": "Dream of relaxing on black sand beaches beneath waving palm trees and cooling off with this blend of strawberries, bananas, and pineapple sherbet. Gigantic sunbrella and tiki bar not included.",
+        "price": "150",
+        "image": "Images\/aps.png",
+        "category": "Classic Smoothies"
+    },
+    {
+        "id": "5",
+        "name": "Caribbean Passion\u00ae Smoothie",
+        "subname": "Beat the heat, the island way.",
+        "description": "Get whisked away to a lush tropical island by a blend of strawberries, peaches, passion fruit-mango juice and orange sherbet. Are you being serenaded by birds of paradise? No, that\u2019s a car horn; you\u2019re daydreaming in the parking lot again.",
+        "price": "150",
+        "image": "Images\/cps.png",
+        "category": "Classic Smoothies"
+    },
+    {
+        "id": "6",
+        "name": "Strawberry Whirl\u2122 Smoothie",
+        "subname": "Dizzying amounts of goodness.",
+        "description": "We hope you\u2019re not afraid of heights because you\u2019re about to be swept up and taken for a ride on the back of a strawberry soaring through apple-berry skies around banana clouds. Fly high, fruit angel.",
+        "price": "170",
+        "image": "Images\/allfruit\/sws1.png",
+        "category": "All Fruit Smoothies"
+    },
+    {
+        "id": "7",
+        "name": "Five Fruit Frenzy\u2122 Smoothie",
+        "subname": "Hold on to your hats\u2026",
+        "description": "Get ready to be engulfed in a whirlwind of fruit flavor. Strawberry, banana, blueberry, mango and peach all vie for supremacy in a flavor tornado the likes of which your taste buds have never experienced.",
+        "price": "170",
+        "image": "Images\/allfruit\/fffs.png",
+        "category": "All Fruit Smoothies"
+    },
+    {
+        "id": "8",
+        "name": "Peach Perfection\u2122 Smoothie",
+        "subname": "No fruit is more fastidious.",
+        "description": "The peach is very particular about her associates. Mangos, strawberries and two kinds of fruit juice ensure that she\u2019s always seen with the right people. After all, she has a reputation to maintain.",
+        "price": "170",
+        "image": "Images\/allfruit\/pps1.png",
+        "category": "All Fruit Smoothies"
+    },
+    {
+        "id": "9",
+        "name": "Mega Mango\u2122 Smoothie",
+        "subname": "Whoa, that\u2019s one big mango.",
+        "description": "Gaze upon our towering monolith to the mango. We offer up strawberries, exotic juices and of course piles of mangos in order to appease our mighty lord of the fruits. It is good, and he is pleased.",
+        "price": "170",
+        "image": "Images\/allfruit\/mms.png",
+        "category": "All Fruit Smoothies"
+    },
+    {
+        "id": "10",
+        "name": "Orange Dream Machine\u00ae Smoothie",
+        "subname": "Feed your dreams.",
+        "description": "Thoughts of this amazing smoothie occupy your every waking moment and invade your slumber. Visions of orange juice, orange sherbet and nonfat vanilla frozen yogurt dancing together fill your nights. Isn\u2019t it time you made this dream come true?",
+        "price": "180",
+        "image": "Images\/creamy\/odms.png",
+        "category": "Creamy Smoothies"
+    }
+]
